@@ -37,7 +37,7 @@
 
     <properties>
         <!-- The versions for BOMs, Dependencies and Plugins -->
-        <version.narayana>5.10.6.Final</version.narayana>
+        <version.narayana>5.12.6.Final</version.narayana>
         <version.server.bom>26.0.0.Final</version.server.bom>
     </properties>
 
